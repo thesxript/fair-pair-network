@@ -25,8 +25,8 @@ Before you get started, the following needs to be installed:
 1.  Get the code. Clone this git repository and check out the latest release:
 
     ```bash
-    git clone https://github.com/
-    cd fairpair
+    git clone https://github.com/thesxript/fair-pair-network
+    cd fair-pair-network
     ```
 
 2.  Install the required gems by running the following command in the project root directory:
